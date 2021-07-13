@@ -1,6 +1,6 @@
 # Mask R-CNN for Object Detection and Segmentation
-
-_This is a fork of https://github.com/matterport/Mask_RCNN_
+_This is a fork of https://github.com/sabderra/Mask_RCNN which is a fork of https://github.com/matterport/Mask_RCNN_
+_I wanted to test the Mask RCNN implementation and various Jupyter Notebooks but with Tensorflow 2 support.
 
 This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
 
